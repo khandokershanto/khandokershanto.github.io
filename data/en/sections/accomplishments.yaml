@@ -1,0 +1,77 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Introduction to R
+  timeline: "November 2020 - November 2020"
+  organization:
+    name: datacamp
+    url: https://www.datacamp.com/
+  courseOverview: This course helps to master the basics of data analysis by manipulating common data structures such as vectors, matrices, and data frames. This course has six chapters including Intro to basics, Vectors, Matrices, Factors, Data frames and Lists.
+  certificateURL: "https://www.datacamp.com/statement-of-accomplishment/course/e661f268a566862e193949966acb22406b61d0c8"
+
+- name: Introduction to Importing Data in R
+  timeline: "November 2020 - November 2020"
+  organization:
+    name: datacamp
+    url: https://www.datacamp.com/
+  courseOverview: "In this course, I learnt to read CSV, XLS, and text files in R using tools like readxl and data.table. This course has four chapters including Importing data from flat files with utils, readr & data.table, Importing Excel data, Reproducible Excel work with XLConnect.
+"
+  certificateURL: "https://www.datacamp.com/statement-of-accomplishment/course/f8df9fdccd0f5b8e174c4376431584528244b19f"
+
+- name: Introduction to Tidyverse
+  timeline: "November 2020 - November 2020"
+  organization:
+    name: datacamp
+    url: https://www.datacamp.com/
+  courseOverview: This course helped to Get started on the path to exploring and visualizing data with the tidyverse, a powerful and popular collection of data science tools within R. This course has four chapters including Data wrangling, Data visualization, Grouping and summarizing, Types of visualization.
+  certificateURL: "https://www.datacamp.com/statement-of-accomplishment/course/d4306f55341c58625f86ffd8e70e18271d4cbcf4"
+
+- name: Introduction to Data Visualization with ggplot
+  timeline: "Nov 2020 - November 2020"
+  organization:
+    name: datacamp
+    url: https://www.datacamp.com/
+  courseOverview: This course helps to learnt to produce meaningful and beautiful data visualizations with ggplot2 by understanding the grammar of graphics. This course has four chapters including Introduction, Aesthetics, Geometries, Themes.
+  certificateURL: "https://www.datacamp.com/statement-of-accomplishment/course/e97cd2c0c5d7fbdc6ab3d7453a260876a9564bbd"
+
+- name: Data Manipulation with dplyr
+  timeline: "Nov 2020 - November 2020"
+  organization:
+    name: datacamp
+    url: https://www.datacamp.com/
+  courseOverview: This course helped to learn to transform and manipulate your data using dplyr. It also helped with basic transformations of data such as aggregate your data and add, remove, or change the variables. This course has four chapters including Transforming Data with dplyr, Aggregating Data, Selecting and Transforming Data, Case Study The babynames Dataset.
+  certificateURL: "https://www.datacamp.com/statement-of-accomplishment/course/fb5e3b86fc7c7ff6bace312535a7907678d7b4f1?raw=1"
+
+- name: Intermediate R
+  timeline: "Nov 2020 - November 2020"
+  organization:
+    name: datacamp
+    url: https://www.datacamp.com/
+  courseOverview: In this R training, I learnt about conditional statements, loops, and functions to power your my R scripts. This course has five chapters including Conditionals and Control Flow, Loops, Functions, The apply family, Utilities.
+  certificateURL: "https://www.datacamp.com/statement-of-accomplishment/course/ec09806052cff4f5f112adee01618b27bb4083e4"
+
+- name: Correlation and Regression in R
+  timeline: "Nov 2020 - November 2020"
+  organization:
+    name: datacamp
+    url: https://www.datacamp.com/
+  courseOverview: In this course, I learnt how to describe relationships between two numerical quantities and also characterize these relationships graphically, in the form of summary statistics, and through simple linear regression models. This course has five chapters including Visualizing two variables, Correlation, Simple linear regression, Interpreting regression models, Model Fit.
+  certificateURL: "https://www.datacamp.com/statement-of-accomplishment/course/9636ba65bed3239b4704a15ea85ff795b0545020?raw=1"
+
+- name: Linear Regression and Modeling
+  timeline: "August 2020 - September 2020"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org/
+  courseOverview: In this course, I learnt the fundamental theory behind linear regression and, through data examples, learn to fit, examine, and utilize regression models to examine relationships between multiple variables, using the free statistical software R and RStudio. This course has four chapters including About Linear Regression and Modeling, Linear Regression, More about Linear Regression, Multiple Regression and also a Final Project submission.
+  certificateURL: "https://www.coursera.org/account/accomplishments/verify/PDY46ZJE7HH3"

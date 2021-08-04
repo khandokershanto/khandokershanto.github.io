@@ -1,0 +1,90 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.Sc in Oceanography & Hydrography
+  icon: fa-graduation-cap
+  timeframe: 2017-Present
+  institution:
+    name: Bangabandhu Sheikh Mujibur Rahman Maritime University, Bangladesh
+    url: "https://bsmrmu.edu.bd/"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 3.2
+    outOf: 4
+  #publications: #(optional)
+ #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #  url: "#"
+  #- title: Fusce eu augue ut odio porttitor pulvinar.
+  #  url: "#"
+  #- title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #  url: "#"
+#- name: HSC in Science
+#  icon: fa-graduation-cap
+#  timeframe: 2014-2016
+#  institution:
+#    name: Cantonment College, Jashore
+#    url: "http://www.jcc.edu.bd/"
+#  grade: #(optional)
+#    scale: GPA
+#    achieved: 4.67
+#    outOf: 5
+#  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+#    showGrades: true
+    #courses:
+  #  - name: Data Structures and Algorithm
+    #  achieved: 3.75
+    #  outOf: 4
+  #  - name: Network Security
+    #  achieved: 3.80
+    #  outOf: 4
+    #- name: Operating System
+    #  achieved: 3.5
+    #  outOf: 4
+  #  - name: Artificial Intelligent
+  #    achieved: 3.75
+    #  outOf: 4
+  #publications: #(optional)
+  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #  url: "#"
+  #- title: Fusce eu augue ut odio porttitor pulvinar.
+  #  url: "#"
+  #extracurricularActivities: #(optional)
+#  - Active in Sports activites.
+  #- Punctual and Hard-working.
+
+- name: Higher Secondary School Certificate (HSC in Science)
+  icon: fa-school
+  timeframe: 2014-2016
+  institution:
+    name: Cantonment College, Jashore
+    url: "http://www.jcc.edu.bd/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 4.67
+    outOf: 5
+  #extracurricularActivities: #(optional)
+  #- In vitae facilisis est, eget porta sem.
+  #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  #- Duis sed massa feugiat, ornare justo et, aliquam est.
+  #- Pellentesque ut fringilla magna.
+- name: Secondary School Certificate (SSC in Science)
+  icon: fa-school
+  timeframe: 2009-2014
+  institution:
+    name: S.M Model Govt. High School
+    url: "http://smmodelgovt.edu.bd/"
+
+  grade: #(optional)
+    scale: GPA
+    achieved: 5
+    outOf: 5

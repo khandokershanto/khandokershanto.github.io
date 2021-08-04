@@ -1,0 +1,59 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: R Programming
+  logo: /images/sections/skills/rstudio.png
+  summary: "Capable of big data wrangling, data cleaning, data visualization, Oceanographic data analysis, Satellite data analysis etc. "
+  url: "https://rpubs.com/Shanto_khandoker"
+
+- name: Python
+  logo: /images/sections/skills/python.jpg
+  summary: "Have basic knowledge on python programming but not an expert. "
+  url: "https://www.python.org/"
+
+- name: Climate Data Operator (CDO)
+  logo: /images/sections/skills/cdo.JPG
+  summary: "Capable of using this software by command line in Linux operating system to manipulate and analyse Climate and NWP data."
+  url: "https://code.mpimet.mpg.de/projects/cdo/"
+
+- name: netCDF Operator (NCO)
+  logo: /images/sections/skills/nco.png
+  summary: "Capable of doing various netCDF operations very easily in this software by command line in Linux shell."
+  url: "http://nco.sourceforge.net/"
+
+- name: Ocean Data view (ODV)
+  logo: /images/sections/skills/odv.jpg
+  summary: "Analyse and visualize of oceanographic and other geo-referenced profile, time-series, trajectory or sequence data."
+  url: "https://odv.awi.de/"
+
+#- name: Cloud Computing
+ # logo: /images/sections/skills/cloud.png
+  #summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+- name: Arcgis Pro
+  logo: /images/sections/skills/arc.png
+  summary: "Capable of various remote sensing operations and maping on Landsat 5, 7, 8 and Senitinel 1, 2A, 2B image."
+  url: "https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the secondary operating system. Capable of writing bash/shell scripts."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
+
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
